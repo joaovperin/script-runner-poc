@@ -25,6 +25,7 @@
   "homepage": "https://github.com/joaovperin/script-runner-poc/worker#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "ghost-cursor": "^1.1.18",
     "gudangjs": "^1.1.4",
     "puppeteer": "^19.7.3",
     "puppeteer-extra": "^3.3.6",
